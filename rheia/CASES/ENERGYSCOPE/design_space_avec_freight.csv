@@ -1,0 +1,17 @@
+gwp_tramway_trolley,par,6430
+gwp_bus_coach_diesel,par,15
+gwp_bus_coach_hydiesel,par, 265 
+gwp_bus_coach_cng_stoich,par,60
+gwp_bus_coach_fc_hybridh2,par,100
+gwp_train_pub,par,2445
+gwp_car_diesel,par, 55
+gwp_car_ng,par,50
+gwp_car_methanol,par,85
+gwp_car_bev,par,25
+gwp_car_fuel_cell,par,190.5
+gwp_train_freight,par,900
+gwp_boat_freight_diesel,par,255
+gwp_boat_freight_methanol,par,490
+gwp_truck_diesel,par,40
+gwp_truck_methanol,par,385
+gwp_truck_fuel_cell,par,535

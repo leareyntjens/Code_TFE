@@ -1,0 +1,9 @@
+name,First-order Sobol indices,Total-order Sobol indices  
+gwp_car_diesel,0.160920,0.439423  
+gwp_car_gasoline,0.015876,0.286539  
+gwp_car_PHEV,0.015113,0.211249  
+gwp_car_bev,0.008329,0.206007  
+gwp_car_ng,0.036323,0.188969  
+gwp_car_HEV,0.000385,0.162198  
+gwp_car_methanol,0.008624,0.153190  
+gwp_car_fuel_cell,0.021855,0.085001  

@@ -1,0 +1,11 @@
+name,First-order Sobol indices,Total-order Sobol indices  
+gwp_biodiesel,0.280797,0.280797  
+gwp_ammonia,0.137045,0.137045  
+gwp_H2,0.133148,0.133148  
+gwp_gas_RE,0.115440,0.115440  
+gwp_bioethanol,0.115312,0.115312  
+gwp_gas,0.104960,0.104960  
+gwp_methanol,0.065495,0.065495  
+gwp_ammonia_RE,0.031459,0.031459  
+gwp_H2_RE,0.013982,0.013982  
+gwp_methanol_RE,0.002361,0.002361  

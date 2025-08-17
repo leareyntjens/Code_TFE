@@ -1,0 +1,12 @@
+name,First-order Sobol indices,Total-order Sobol indices  
+gwp_ind_boiler_gas,1.000000,1.000000  
+gwp_ind_cogen_gas,0.000000,0.000000  
+gwp_CCGT_ammonia,0.000000,0.000000  
+gwp_DEC_ADVCOGEN_H2,0.000000,0.000000  
+gwp_DHN_cogen_gas,0.000000,0.000000  
+gwp_DHN_boiler_gas,0.000000,0.000000  
+gwp_DEC_cogen_gas,0.000000,0.000000  
+gwp_DEC_ADVCOGEN_gas,0.000000,0.000000  
+gwp_DEC_THHP_gas,0.000000,0.000000  
+gwp_CCGT,0.000000,0.000000  
+gwp_DEC_BOILER_GAS,0.000000,0.000000  

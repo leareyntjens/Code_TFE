@@ -1,0 +1,16 @@
+gwp_tramway_trolley,relative,Uniform,0.2
+gwp_bus_coach_diesel,relative,Uniform,0.2
+gwp_bus_coach_hydiesel,relative,Uniform,0.2
+gwp_bus_coach_cng_stoich,relative,Uniform,0.2
+gwp_bus_coach_fc_hybridh2,relative,Uniform,0.2
+gwp_train_pub,relative,Uniform,0.2
+gwp_car_diesel,relative,Uniform,0.2
+gwp_car_ng,relative,Uniform,0.2
+gwp_car_methanol,relative,Uniform,0.2
+gwp_car_bev,relative,Uniform,0.2
+gwp_car_fuel_cell,relative,Uniform,0.2
+gwp_boat_freight_diesel,relative,Uniform,0.2
+gwp_boat_freight_methanol,relative,Uniform,0.2
+gwp_truck_diesel,relative,Uniform,0.2
+gwp_truck_methanol,relative,Uniform,0.2
+gwp_truck_fuel_cell,relative,Uniform,0.2

@@ -1,0 +1,11 @@
+gwp_ccgt,par,183.79
+gwp_ccgt_ammonia,par,183.79
+gwp_ind_cogen_gas,par,1024.32
+gwp_ind_boiler_gas,par,12.32
+gwp_dhn_cogen_gas,par,490.88
+gwp_dhn_boiler_gas,par,12.32
+gwp_dec_thhp_gas,par,381.93
+gwp_dec_cogen_gas,par,1024.32
+gwp_dec_advcogen_gas,par,2193.45
+gwp_dec_advcogen_h2,par,2193.45
+gwp_dec_boiler_gas,par,21.09

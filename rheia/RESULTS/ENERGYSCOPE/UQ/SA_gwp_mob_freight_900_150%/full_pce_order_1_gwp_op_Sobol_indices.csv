@@ -1,0 +1,17 @@
+name,First-order Sobol indices,Total-order Sobol indices  
+gwp_truck_methanol,0.781681,0.781681  
+gwp_boat_freight_methanol,0.080639,0.080639  
+gwp_car_bev,0.046868,0.046868  
+gwp_car_methanol,0.022311,0.022311  
+gwp_bus_coach_hydiesel,0.016038,0.016038  
+gwp_truck_diesel,0.013308,0.013308  
+gwp_bus_coach_diesel,0.010524,0.010524  
+gwp_tramway_trolley,0.010306,0.010306  
+gwp_bus_coach_fc_hybridh2,0.007105,0.007105  
+gwp_car_fuel_cell,0.005660,0.005660  
+gwp_car_ng,0.004162,0.004162  
+gwp_boat_freight_diesel,0.000708,0.000708  
+gwp_car_diesel,0.000360,0.000360  
+gwp_truck_fuel_cell,0.000326,0.000326  
+gwp_bus_coach_cng_stoich,0.000003,0.000003  
+gwp_train_pub,0.000001,0.000001  

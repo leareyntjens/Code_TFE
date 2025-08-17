@@ -1,0 +1,17 @@
+-------------------- Polynomial chaos output -------------------- 
+
+ Number of input variables :: 5
+ Maximal degree ::            2
+ Size of full basis ::        42
+ Size of sparse basis ::      21
+
+ Full model evaluation ::     42
+ Leave-one-out error ::       0.0062564862991527645
+
+ Mean value ::                36300.448518060584
+ Std. deviation ::            3815.974110011663
+ First-order Sobol indices :: [8.942e-01 1.780e-02 3.710e-02 3.360e-02 1.640e-02 0.000e+00 3.000e-04
+ 0.000e+00 2.000e-04 1.000e-04 0.000e+00 0.000e+00 2.000e-04 1.000e-04
+ 0.000e+00]
+
+ Total Sobol indices ::       [0.8947 0.018  0.0377 0.0338 0.0168]

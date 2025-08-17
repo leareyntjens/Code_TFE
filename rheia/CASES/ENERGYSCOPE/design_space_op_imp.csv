@@ -1,0 +1,10 @@
+gwp_bioethanol,par,0.03
+gwp_biodiesel,par,0.03
+gwp_gas,par,0.2666
+gwp_gas_RE,par,0.03
+gwp_H2_RE,par,0.03
+gwp_H2,par,0.336
+gwp_ammonia,par,0.285
+gwp_ammonia_RE,par,0.03
+gwp_methanol,par,0.35
+gwp_methanol_RE,par,0.03

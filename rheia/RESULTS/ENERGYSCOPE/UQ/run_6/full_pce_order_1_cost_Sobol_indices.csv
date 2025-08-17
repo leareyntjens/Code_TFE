@@ -1,0 +1,6 @@
+name,First-order Sobol indices,Total-order Sobol indices  
+c_inv_e_prop,0.509166,0.509166  
+f_max_nuc,0.297444,0.297444  
+c_inv_car,0.136441,0.136441  
+passenger_extra,0.055196,0.055196  
+c_op_hydrocarbons,0.001752,0.001752  

@@ -1,0 +1,26 @@
+name,First-order Sobol indices,Total-order Sobol indices  
+gwp_phs,0.586513,0.586513  
+gwp_gas_storage,0.412557,0.412557  
+gwp_ts_dhn_seasonal,0.000698,0.000698  
+gwp_ts_dhn_daily,0.000043,0.000043  
+gwp_phev_batt,0.000040,0.000040  
+gwp_ts_dec_advcogen_gas,0.000039,0.000039  
+gwp_ts_dec_cogen_oil,0.000022,0.000022  
+gwp_h2_storage,0.000019,0.000019  
+gwp_bev_batt,0.000017,0.000017  
+gwp_gasoline_storage,0.000010,0.000010  
+gwp_co2_storage,0.000009,0.000009  
+gwp_batt_li,0.000009,0.000009  
+gwp_ammonia_storage,0.000007,0.000007  
+gwp_ts_dec_thhp_gas,0.000006,0.000006  
+gwp_methanol_storage,0.000002,0.000002  
+gwp_lfo_storage,0.000002,0.000002  
+gwp_ts_dec_boiler_gas,0.000002,0.000002  
+gwp_ts_dec_direct_elec,0.000001,0.000001  
+gwp_ts_dec_boiler_oil,0.000001,0.000001  
+gwp_ts_dec_hp_elec,0.000001,0.000001  
+gwp_ts_high_temp,0.000001,0.000001  
+gwp_ts_dec_boiler_wood,0.000001,0.000001  
+gwp_ts_dec_cogen_gas,0.000001,0.000001  
+gwp_diesel_storage,0.000000,0.000000  
+gwp_ts_dec_advcogen_h2,0.000000,0.000000  

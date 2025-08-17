@@ -1,0 +1,8 @@
+gwp_car_diesel,relative,Uniform,0.2
+gwp_car_ng,relative,Uniform,0.2
+gwp_car_methanol,relative,Uniform,0.2
+gwp_car_bev,relative,Uniform,0.2
+gwp_car_fuel_cell,relative,Uniform,0.2
+gwp_car_gasoline,relative,Uniform,0.2
+gwp_car_hev,relative,Uniform,0.2
+gwp_car_phev,relative,Uniform,0.2

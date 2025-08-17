@@ -1,0 +1,24 @@
+name,First-order Sobol indices,Total-order Sobol indices  
+gwp_pv,0.999691,0.999691  
+gwp_wind_onshore,0.000212,0.000212  
+gwp_wind_offshore,0.000076,0.000076  
+gwp_dec_hp_elec,0.000012,0.000012  
+gwp_dec_solar,0.000007,0.000007  
+gwp_dhn_hp_elec,0.000001,0.000001  
+gwp_hydro_river,0.000000,0.000000  
+gwp_ind_boiler_wood,0.000000,0.000000  
+gwp_dhn_cogen_wet_biomass,0.000000,0.000000  
+gwp_dhn_boiler_wood,0.000000,0.000000  
+gwp_dec_boiler_wood,0.000000,0.000000  
+gwp_ind_boiler_waste,0.000000,0.000000  
+gwp_ind_direct_elec,0.000000,0.000000  
+gwp_dec_direct_elec,0.000000,0.000000  
+gwp_dhn_deep_geo,0.000000,0.000000  
+gwp_dhn_cogen_wood,0.000000,0.000000  
+gwp_geothermal,0.000000,0.000000  
+gwp_ind_cogen_wood,0.000000,0.000000  
+gwp_dhn_cogen_bio_hydrolysis,0.000000,0.000000  
+gwp_dhn_solar,0.000000,0.000000  
+gwp_nuclear,0.000000,0.000000  
+gwp_ind_cogen_waste,0.000000,0.000000  
+gwp_dhn_cogen_waste,0.000000,0.000000  

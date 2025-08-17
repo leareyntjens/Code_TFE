@@ -1,0 +1,6 @@
+name,First-order Sobol indices,Total-order Sobol indices  
+f_max_nuc,0.445193,0.445294  
+c_inv_e_prop,0.290658,0.290874  
+param_i_rate,0.187520,0.187674  
+avail_biomass,0.076325,0.076365  
+c_op_syn_fuel,0.000018,0.000080  

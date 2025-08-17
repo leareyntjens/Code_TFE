@@ -1,0 +1,470 @@
+
+========== [📁 Mod_techno_gwp_constr] ==========
+
+--- Importations retenues (numérateur) ---
+  [IMPORT] Imp. Ammonia RE                -> 30.55
+  [IMPORT] Imp. Methanol RE               -> 54.78
+  [IMPORT] Imp. Bio-diesel                -> 2.74
+  [IMPORT] Imp. Gas RE                    -> 68.6
+  [IMPORT] Imp. H2 RE                     -> 30.91
+
+--- Sources retenues pour le dénominateur ---
+  [DENOM]  Imp. Ammonia RE                -> 30.55
+  [DENOM]  Imp. Methanol RE               -> 54.78
+  [DENOM]  Imp. Bio-diesel                -> 2.74
+  [DENOM]  Imp. Gas RE                    -> 68.6
+  [DENOM]  Electricity                    -> 32.44
+  [DENOM]  Wind                           -> 42.77
+  [DENOM]  Hydro River                    -> 0.48
+  [DENOM]  Solar                          -> 40.31
+  [DENOM]  Waste                          -> 1.76
+  [DENOM]  Wood                           -> 23.4
+  [DENOM]  Wet biomass                    -> 38.9
+  [DENOM]  Solar                          -> 0.15
+  [DENOM]  Wind                           -> 0.2
+  [DENOM]  Imp. H2 RE                     -> 30.91
+  [DENOM]  H2 prod                        -> 5.03
+  [DENOM]  H2 prod                        -> -5.03
+
+🧮 Résultat : 50.97 % d'importations
+
+========== [📁 Capa_30%_gwp_constr] ==========
+
+--- Importations retenues (numérateur) ---
+  [IMPORT] Imp. Ammonia RE                -> 62.11
+  [IMPORT] Imp. Methanol RE               -> 54.78
+  [IMPORT] Imp. Bio-diesel                -> 2.74
+  [IMPORT] Imp. Gas RE                    -> 51.69
+  [IMPORT] Imp. H2 RE                     -> 30.91
+
+--- Sources retenues pour le dénominateur ---
+  [DENOM]  Imp. Ammonia RE                -> 62.11
+  [DENOM]  Imp. Methanol RE               -> 54.78
+  [DENOM]  Imp. Bio-diesel                -> 2.74
+  [DENOM]  Imp. Gas RE                    -> 51.69
+  [DENOM]  Electricity                    -> 32.44
+  [DENOM]  Wind                           -> 39.07
+  [DENOM]  Hydro River                    -> 0.48
+  [DENOM]  Solar                          -> 43.07
+  [DENOM]  Waste                          -> 1.76
+  [DENOM]  Wood                           -> 23.4
+  [DENOM]  Wet biomass                    -> 38.9
+  [DENOM]  Imp. H2 RE                     -> 30.91
+  [DENOM]  H2 prod                        -> 5.03
+  [DENOM]  H2 prod                        -> -5.03
+
+🧮 Résultat : 53.03 % d'importations
+
+========== [📁 Capa_50%_gwp_constr] ==========
+
+--- Importations retenues (numérateur) ---
+  [IMPORT] Imp. Ammonia RE                -> 24.21
+  [IMPORT] Imp. Methanol RE               -> 54.78
+  [IMPORT] Imp. Bio-diesel                -> 2.74
+  [IMPORT] Imp. Gas RE                    -> 78.26
+  [IMPORT] Imp. H2 RE                     -> 30.91
+
+--- Sources retenues pour le dénominateur ---
+  [DENOM]  Imp. Ammonia RE                -> 24.21
+  [DENOM]  Imp. Methanol RE               -> 54.78
+  [DENOM]  Imp. Bio-diesel                -> 2.74
+  [DENOM]  Imp. Gas RE                    -> 78.26
+  [DENOM]  Electricity                    -> 32.44
+  [DENOM]  Wind                           -> 42.97
+  [DENOM]  Hydro River                    -> 0.48
+  [DENOM]  Solar                          -> 34.62
+  [DENOM]  Waste                          -> 1.76
+  [DENOM]  Wood                           -> 23.4
+  [DENOM]  Wet biomass                    -> 38.9
+  [DENOM]  Imp. H2 RE                     -> 30.91
+  [DENOM]  H2 prod                        -> 5.03
+  [DENOM]  H2 prod                        -> -5.03
+
+🧮 Résultat : 52.23 % d'importations
+
+========== [📁 Aucune_mod_gwp_constr] ==========
+
+--- Importations retenues (numérateur) ---
+  [IMPORT] Imp. Ammonia RE                -> 26.39
+  [IMPORT] Imp. Methanol RE               -> 54.78
+  [IMPORT] Imp. Bio-diesel                -> 2.74
+  [IMPORT] Imp. Gas RE                    -> 71.25
+  [IMPORT] Imp. H2 RE                     -> 30.91
+
+--- Sources retenues pour le dénominateur ---
+  [DENOM]  Imp. Ammonia RE                -> 26.39
+  [DENOM]  Imp. Methanol RE               -> 54.78
+  [DENOM]  Imp. Bio-diesel                -> 2.74
+  [DENOM]  Imp. Gas RE                    -> 71.25
+  [DENOM]  Electricity                    -> 32.44
+  [DENOM]  Wind                           -> 42.72
+  [DENOM]  Hydro River                    -> 0.48
+  [DENOM]  Solar                          -> 40.14
+  [DENOM]  Waste                          -> 1.76
+  [DENOM]  Wood                           -> 23.4
+  [DENOM]  Wet biomass                    -> 38.9
+  [DENOM]  Solar                          -> 0.14
+  [DENOM]  Wind                           -> 0.25
+  [DENOM]  Imp. H2 RE                     -> 30.91
+  [DENOM]  H2 prod                        -> 5.03
+  [DENOM]  H2 prod                        -> -5.03
+
+🧮 Résultat : 50.80 % d'importations
+
+========== [📁 10MGT] ==========
+
+--- Importations retenues (numérateur) ---
+  [IMPORT] Imp. Ammonia RE                -> 37.86
+  [IMPORT] Imp. Methanol RE               -> 54.78
+  [IMPORT] Imp. Bio-diesel                -> 2.74
+  [IMPORT] Imp. Gas                       -> 24.73
+  [IMPORT] Imp. Gas RE                    -> 16.19
+  [IMPORT] Imp. H2 RE                     -> 15.57
+
+--- Sources retenues pour le dénominateur ---
+  [DENOM]  Imp. Ammonia RE                -> 37.86
+  [DENOM]  Imp. Methanol RE               -> 54.78
+  [DENOM]  Imp. Bio-diesel                -> 2.74
+  [DENOM]  Imp. Gas                       -> 24.73
+  [DENOM]  Imp. Gas RE                    -> 16.19
+  [DENOM]  Electricity                    -> 32.44
+  [DENOM]  Wind                           -> 42.73
+  [DENOM]  Hydro River                    -> 0.48
+  [DENOM]  Solar                          -> 61.53
+  [DENOM]  Waste                          -> 17.8
+  [DENOM]  Wood                           -> 23.4
+  [DENOM]  Wet biomass                    -> 38.9
+  [DENOM]  Solar                          -> 0.13
+  [DENOM]  Wind                           -> 0.24
+  [DENOM]  Imp. H2 RE                     -> 15.57
+
+🧮 Résultat : 41.10 % d'importations
+
+========== [📁 10MGT_gwp] ==========
+
+--- Importations retenues (numérateur) ---
+  [IMPORT] Imp. Ammonia RE                -> 37.86
+  [IMPORT] Imp. Methanol RE               -> 54.78
+  [IMPORT] Imp. Bio-diesel                -> 2.74
+  [IMPORT] Imp. Gas                       -> 24.73
+  [IMPORT] Imp. Gas RE                    -> 16.19
+  [IMPORT] Imp. H2 RE                     -> 15.57
+
+--- Sources retenues pour le dénominateur ---
+  [DENOM]  Imp. Ammonia RE                -> 37.86
+  [DENOM]  Imp. Methanol RE               -> 54.78
+  [DENOM]  Imp. Bio-diesel                -> 2.74
+  [DENOM]  Imp. Gas                       -> 24.73
+  [DENOM]  Imp. Gas RE                    -> 16.19
+  [DENOM]  Electricity                    -> 32.44
+  [DENOM]  Wind                           -> 42.73
+  [DENOM]  Hydro River                    -> 0.48
+  [DENOM]  Solar                          -> 61.53
+  [DENOM]  Waste                          -> 17.8
+  [DENOM]  Wood                           -> 23.4
+  [DENOM]  Wet biomass                    -> 38.9
+  [DENOM]  Solar                          -> 0.13
+  [DENOM]  Wind                           -> 0.24
+  [DENOM]  Imp. H2 RE                     -> 15.57
+
+🧮 Résultat : 41.10 % d'importations
+
+========== [📁 Aucune_mod_gwp_tot] ==========
+
+--- Importations retenues (numérateur) ---
+  [IMPORT] Imp. Ammonia RE                -> 75.78
+  [IMPORT] Imp. Methanol RE               -> 54.78
+  [IMPORT] Imp. Bio-diesel                -> 2.74
+  [IMPORT] Imp. Gas RE                    -> 97.46
+  [IMPORT] Imp. H2 RE                     -> 15.57
+
+--- Sources retenues pour le dénominateur ---
+  [DENOM]  Imp. Ammonia RE                -> 75.78
+  [DENOM]  Imp. Methanol RE               -> 54.78
+  [DENOM]  Imp. Bio-diesel                -> 2.74
+  [DENOM]  Imp. Gas RE                    -> 97.46
+  [DENOM]  Electricity                    -> 32.44
+  [DENOM]  Wind                           -> 42.96
+  [DENOM]  Hydro River                    -> 0.49
+  [DENOM]  Solar                          -> 3.54
+  [DENOM]  Wood                           -> 23.4
+  [DENOM]  Wet biomass                    -> 38.9
+  [DENOM]  Imp. H2 RE                     -> 15.57
+
+🧮 Résultat : 63.48 % d'importations
+
+========== [📁 Aucune_mod_gwp_tot_test] ==========
+
+--- Importations retenues (numérateur) ---
+  [IMPORT] Imp. Ammonia RE                -> 75.78
+  [IMPORT] Imp. Methanol RE               -> 54.78
+  [IMPORT] Imp. Bio-diesel                -> 2.74
+  [IMPORT] Imp. Gas RE                    -> 97.46
+  [IMPORT] Imp. H2 RE                     -> 15.57
+
+--- Sources retenues pour le dénominateur ---
+  [DENOM]  Imp. Ammonia RE                -> 75.78
+  [DENOM]  Imp. Methanol RE               -> 54.78
+  [DENOM]  Imp. Bio-diesel                -> 2.74
+  [DENOM]  Imp. Gas RE                    -> 97.46
+  [DENOM]  Electricity                    -> 32.44
+  [DENOM]  Wind                           -> 42.96
+  [DENOM]  Hydro River                    -> 0.49
+  [DENOM]  Solar                          -> 3.54
+  [DENOM]  Wood                           -> 23.4
+  [DENOM]  Wet biomass                    -> 38.9
+  [DENOM]  Imp. H2 RE                     -> 15.57
+
+🧮 Résultat : 63.48 % d'importations
+
+========== [📁 Capa_30%_gwp_tot] ==========
+
+--- Importations retenues (numérateur) ---
+  [IMPORT] Imp. Ammonia RE                -> 56.13
+  [IMPORT] Imp. Methanol RE               -> 54.78
+  [IMPORT] Imp. Bio-diesel                -> 2.74
+  [IMPORT] Imp. Gas RE                    -> 56.99
+  [IMPORT] Imp. H2 RE                     -> 30.91
+
+--- Sources retenues pour le dénominateur ---
+  [DENOM]  Imp. Ammonia RE                -> 56.13
+  [DENOM]  Imp. Methanol RE               -> 54.78
+  [DENOM]  Imp. Bio-diesel                -> 2.74
+  [DENOM]  Imp. Gas RE                    -> 56.99
+  [DENOM]  Electricity                    -> 32.44
+  [DENOM]  Wind                           -> 42.97
+  [DENOM]  Hydro River                    -> 0.48
+  [DENOM]  Solar                          -> 43.07
+  [DENOM]  Wood                           -> 23.4
+  [DENOM]  Wet biomass                    -> 29.35
+  [DENOM]  Imp. H2 RE                     -> 30.91
+  [DENOM]  H2 prod                        -> 5.03
+  [DENOM]  H2 prod                        -> -5.03
+
+🧮 Résultat : 54.00 % d'importations
+
+========== [📁 Capa_50%_gwp_tot] ==========
+
+--- Importations retenues (numérateur) ---
+  [IMPORT] Imp. Ammonia RE                -> 28.21
+  [IMPORT] Imp. Methanol RE               -> 54.78
+  [IMPORT] Imp. Bio-diesel                -> 2.74
+  [IMPORT] Imp. Gas RE                    -> 75.05
+  [IMPORT] Imp. H2 RE                     -> 30.91
+
+--- Sources retenues pour le dénominateur ---
+  [DENOM]  Imp. Ammonia RE                -> 28.21
+  [DENOM]  Imp. Methanol RE               -> 54.78
+  [DENOM]  Imp. Bio-diesel                -> 2.74
+  [DENOM]  Imp. Gas RE                    -> 75.05
+  [DENOM]  Electricity                    -> 32.44
+  [DENOM]  Wind                           -> 42.97
+  [DENOM]  Hydro River                    -> 0.48
+  [DENOM]  Solar                          -> 37.06
+  [DENOM]  Wood                           -> 23.4
+  [DENOM]  Wet biomass                    -> 38.9
+  [DENOM]  Imp. H2 RE                     -> 30.91
+  [DENOM]  H2 prod                        -> 5.03
+  [DENOM]  H2 prod                        -> -5.03
+
+🧮 Résultat : 52.24 % d'importations
+
+========== [📁 Mod_techno_gwp_tot] ==========
+
+--- Importations retenues (numérateur) ---
+  [IMPORT] Imp. Ammonia RE                -> 29.91
+  [IMPORT] Imp. Methanol RE               -> 54.78
+  [IMPORT] Imp. Bio-diesel                -> 2.74
+  [IMPORT] Imp. Gas RE                    -> 68.04
+  [IMPORT] Imp. H2 RE                     -> 30.91
+
+--- Sources retenues pour le dénominateur ---
+  [DENOM]  Imp. Ammonia RE                -> 29.91
+  [DENOM]  Imp. Methanol RE               -> 54.78
+  [DENOM]  Imp. Bio-diesel                -> 2.74
+  [DENOM]  Imp. Gas RE                    -> 68.04
+  [DENOM]  Electricity                    -> 32.44
+  [DENOM]  Wind                           -> 42.62
+  [DENOM]  Hydro River                    -> 0.48
+  [DENOM]  Solar                          -> 42.69
+  [DENOM]  Wood                           -> 23.4
+  [DENOM]  Wet biomass                    -> 38.9
+  [DENOM]  Solar                          -> 0.09
+  [DENOM]  Wind                           -> 0.35
+  [DENOM]  Imp. H2 RE                     -> 30.91
+  [DENOM]  H2 prod                        -> 5.03
+  [DENOM]  H2 prod                        -> -5.03
+
+🧮 Résultat : 50.74 % d'importations
+
+========== [📁 Ressources_150%_gwp_tot] ==========
+
+--- Importations retenues (numérateur) ---
+  [IMPORT] Imp. Ammonia RE                -> 56.79
+  [IMPORT] Imp. Methanol RE               -> 73.23
+  [IMPORT] Imp. Bio-diesel                -> 4.1
+  [IMPORT] Imp. Gas RE                    -> 24.28
+  [IMPORT] Imp. H2 RE                     -> 23.36
+
+--- Sources retenues pour le dénominateur ---
+  [DENOM]  Imp. Ammonia RE                -> 56.79
+  [DENOM]  Imp. Methanol RE               -> 73.23
+  [DENOM]  Imp. Bio-diesel                -> 4.1
+  [DENOM]  Imp. Gas RE                    -> 24.28
+  [DENOM]  Electricity                    -> 32.44
+  [DENOM]  Wind                           -> 42.84
+  [DENOM]  Hydro River                    -> 0.48
+  [DENOM]  Solar                          -> 61.53
+  [DENOM]  Waste                          -> 0.24
+  [DENOM]  Wood                           -> 23.4
+  [DENOM]  Wet biomass                    -> 38.9
+  [DENOM]  Solar                          -> 0.09
+  [DENOM]  Wind                           -> 0.12
+  [DENOM]  Imp. H2 RE                     -> 23.36
+  [DENOM]  H2 prod                        -> 2.76
+  [DENOM]  H2 prod                        -> -2.76
+
+🧮 Résultat : 47.61 % d'importations
+
+========== [📁 Ressources_150%_AMRE_gwp_tot] ==========
+
+--- Importations retenues (numérateur) ---
+  [IMPORT] Imp. Ammonia RE                -> 95.3
+  [IMPORT] Imp. Methanol RE               -> 56.41
+  [IMPORT] Imp. Bio-diesel                -> 4.1
+  [IMPORT] Imp. Gas RE                    -> 24.28
+  [IMPORT] Imp. H2 RE                     -> 23.36
+
+--- Sources retenues pour le dénominateur ---
+  [DENOM]  Imp. Ammonia RE                -> 95.3
+  [DENOM]  Imp. Methanol RE               -> 56.41
+  [DENOM]  Imp. Bio-diesel                -> 4.1
+  [DENOM]  Imp. Gas RE                    -> 24.28
+  [DENOM]  Electricity                    -> 32.44
+  [DENOM]  Wind                           -> 42.73
+  [DENOM]  Hydro River                    -> 0.48
+  [DENOM]  Solar                          -> 50.7
+  [DENOM]  Wood                           -> 23.4
+  [DENOM]  Wet biomass                    -> 38.9
+  [DENOM]  Solar                          -> 0.15
+  [DENOM]  Wind                           -> 0.23
+  [DENOM]  Imp. H2 RE                     -> 23.36
+  [DENOM]  H2 prod                        -> 4.39
+  [DENOM]  H2 prod                        -> -4.39
+
+🧮 Résultat : 51.84 % d'importations
+
+========== [📁 Ressources_100%_AMRE_gwp_tot] ==========
+
+--- Importations retenues (numérateur) ---
+  [IMPORT] Imp. Ammonia RE                -> 114.78
+  [IMPORT] Imp. Methanol RE               -> 54.78
+  [IMPORT] Imp. Bio-diesel                -> 2.74
+  [IMPORT] Imp. Gas RE                    -> 16.19
+  [IMPORT] Imp. H2 RE                     -> 15.57
+
+--- Sources retenues pour le dénominateur ---
+  [DENOM]  Imp. Ammonia RE                -> 114.78
+  [DENOM]  Imp. Methanol RE               -> 54.78
+  [DENOM]  Imp. Bio-diesel                -> 2.74
+  [DENOM]  Imp. Gas RE                    -> 16.19
+  [DENOM]  Electricity                    -> 32.44
+  [DENOM]  Wind                           -> 42.71
+  [DENOM]  Hydro River                    -> 0.48
+  [DENOM]  Solar                          -> 58.87
+  [DENOM]  Wood                           -> 23.4
+  [DENOM]  Wet biomass                    -> 38.9
+  [DENOM]  Solar                          -> 0.09
+  [DENOM]  Wind                           -> 0.25
+  [DENOM]  Imp. H2 RE                     -> 15.57
+  [DENOM]  H2 prod                        -> 3.72
+  [DENOM]  H2 prod                        -> -3.72
+
+🧮 Résultat : 50.86 % d'importations
+
+========== [📁 Ressources_100%_AMRE_gwp_constr] ==========
+
+--- Importations retenues (numérateur) ---
+  [IMPORT] Imp. Ammonia RE                -> 116.37
+  [IMPORT] Imp. Methanol RE               -> 54.78
+  [IMPORT] Imp. Bio-diesel                -> 2.74
+  [IMPORT] Imp. Gas RE                    -> 16.19
+  [IMPORT] Imp. H2 RE                     -> 15.57
+
+--- Sources retenues pour le dénominateur ---
+  [DENOM]  Imp. Ammonia RE                -> 116.37
+  [DENOM]  Imp. Methanol RE               -> 54.78
+  [DENOM]  Imp. Bio-diesel                -> 2.74
+  [DENOM]  Imp. Gas RE                    -> 16.19
+  [DENOM]  Electricity                    -> 32.44
+  [DENOM]  Wind                           -> 42.77
+  [DENOM]  Hydro River                    -> 0.48
+  [DENOM]  Solar                          -> 56.5
+  [DENOM]  Waste                          -> 1.76
+  [DENOM]  Wood                           -> 23.4
+  [DENOM]  Wet biomass                    -> 38.9
+  [DENOM]  Solar                          -> 0.12
+  [DENOM]  Wind                           -> 0.2
+  [DENOM]  Imp. H2 RE                     -> 15.57
+  [DENOM]  H2 prod                        -> 3.72
+  [DENOM]  H2 prod                        -> -3.72
+
+🧮 Résultat : 51.13 % d'importations
+
+========== [📁 Ressources_150%_AMRE_gwp_constr] ==========
+
+--- Importations retenues (numérateur) ---
+  [IMPORT] Imp. Ammonia RE                -> 96.91
+  [IMPORT] Imp. Methanol RE               -> 56.41
+  [IMPORT] Imp. Bio-diesel                -> 4.1
+  [IMPORT] Imp. Gas RE                    -> 24.28
+  [IMPORT] Imp. H2 RE                     -> 23.36
+
+--- Sources retenues pour le dénominateur ---
+  [DENOM]  Imp. Ammonia RE                -> 96.91
+  [DENOM]  Imp. Methanol RE               -> 56.41
+  [DENOM]  Imp. Bio-diesel                -> 4.1
+  [DENOM]  Imp. Gas RE                    -> 24.28
+  [DENOM]  Electricity                    -> 32.44
+  [DENOM]  Wind                           -> 42.6
+  [DENOM]  Hydro River                    -> 0.48
+  [DENOM]  Solar                          -> 48.33
+  [DENOM]  Waste                          -> 1.76
+  [DENOM]  Wood                           -> 23.4
+  [DENOM]  Wet biomass                    -> 38.9
+  [DENOM]  Solar                          -> 0.05
+  [DENOM]  Wind                           -> 0.37
+  [DENOM]  Imp. H2 RE                     -> 23.36
+  [DENOM]  H2 prod                        -> 4.39
+  [DENOM]  H2 prod                        -> -4.39
+
+🧮 Résultat : 52.13 % d'importations
+
+========== [📁 Ressources_150%_gwp_constr] ==========
+
+--- Importations retenues (numérateur) ---
+  [IMPORT] Imp. Ammonia RE                -> 56.79
+  [IMPORT] Imp. Methanol RE               -> 73.79
+  [IMPORT] Imp. Bio-diesel                -> 4.1
+  [IMPORT] Imp. Gas RE                    -> 24.28
+  [IMPORT] Imp. H2 RE                     -> 23.36
+
+--- Sources retenues pour le dénominateur ---
+  [DENOM]  Imp. Ammonia RE                -> 56.79
+  [DENOM]  Imp. Methanol RE               -> 73.79
+  [DENOM]  Imp. Bio-diesel                -> 4.1
+  [DENOM]  Imp. Gas RE                    -> 24.28
+  [DENOM]  Electricity                    -> 32.44
+  [DENOM]  Wind                           -> 42.65
+  [DENOM]  Hydro River                    -> 0.48
+  [DENOM]  Solar                          -> 60.12
+  [DENOM]  Waste                          -> 1.76
+  [DENOM]  Wood                           -> 23.4
+  [DENOM]  Wet biomass                    -> 38.9
+  [DENOM]  Solar                          -> 0.07
+  [DENOM]  Wind                           -> 0.32
+  [DENOM]  Imp. H2 RE                     -> 23.36
+  [DENOM]  H2 prod                        -> 2.57
+  [DENOM]  H2 prod                        -> -2.57
+
+🧮 Résultat : 47.67 % d'importations

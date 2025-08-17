@@ -1,0 +1,10 @@
+gwp_bioethanol,relative,Uniform,0.75
+gwp_biodiesel,relative,Uniform,0.75
+gwp_gas,relative,Uniform,0.75
+gwp_gas_RE,relative,Uniform,0.75
+gwp_H2_RE,relative,Uniform,0.75
+gwp_H2,relative,Uniform,0.75
+gwp_ammonia,relative,Uniform,0.75
+gwp_ammonia_RE,relative,Uniform,0.75
+gwp_methanol,relative,Uniform,0.75
+gwp_methanol_RE,relative,Uniform,0.75

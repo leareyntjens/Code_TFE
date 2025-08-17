@@ -1,0 +1,4 @@
+gwp_phs,relative,Uniform,0.2
+gwp_ts_dhn_seasonal,relative,Uniform,0.2
+gwp_h2_storage,relative,Uniform,0.2
+gwp_ts_dec_hp_elec,relative,Uniform,0.2

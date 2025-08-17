@@ -1,0 +1,4 @@
+name,First-order Sobol indices,Total-order Sobol indices  
+gwp_ts_dec_hp_elec,0.620132,0.623316  
+gwp_h2_storage,0.331213,0.331699  
+gwp_phs,0.045327,0.048314  

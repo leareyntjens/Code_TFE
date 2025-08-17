@@ -1,0 +1,5 @@
+c_inv_e_prop,absolute,Uniform,0.243
+f_max_nuc,absolute,Uniform,2.81
+avail_biomass,absolute,Uniform,0.321
+param_i_rate,absolute,Uniform,0.462
+c_op_syn_fuel,absolute,Uniform,0.147

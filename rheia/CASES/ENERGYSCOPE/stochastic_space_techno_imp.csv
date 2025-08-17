@@ -1,0 +1,11 @@
+gwp_ccgt,relative,Uniform,0.2
+gwp_ccgt_ammonia,relative,Uniform,0.2
+gwp_ind_cogen_gas,relative,Uniform,0.2
+gwp_ind_boiler_gas,relative,Uniform,0.2
+gwp_dhn_cogen_gas,relative,Uniform,0.2
+gwp_dhn_boiler_gas,relative,Uniform,0.2
+gwp_dec_thhp_gas,relative,Uniform,0.2
+gwp_dec_cogen_gas,relative,Uniform,0.2
+gwp_dec_advcogen_gas,relative,Uniform,0.2
+gwp_dec_advcogen_h2,relative,Uniform,0.2
+gwp_dec_boiler_gas,relative,Uniform,0.2
